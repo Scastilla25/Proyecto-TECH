@@ -1,3 +1,4 @@
 "estadistica"
-
+"variable1"
+""
 
